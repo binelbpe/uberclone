@@ -1,0 +1,187 @@
+.footer{
+  padding-left: 10%;
+  padding-right: 10%;
+  height: max-content;
+  background-color: black;
+  width: 100%;
+}
+.footerbody{
+  padding: 10% 10%;
+    background-color: black;
+    height: 86%;
+}
+.uberwrd{
+  height: max-content;
+    width: 100%;
+    padding-left: 0;
+}
+.uberwrdtxt{
+  color: #FFFFFF;
+  font-family: UberMove, UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 200%;
+  font-weight: 400;
+  line-height: 250%;
+}
+.footeru{
+  font-size:150% ;
+}
+.uberwrd2{
+  width: 100%;
+  padding-left: 0px;
+}
+.uberwrdtxt2{
+  color: rgb(255, 255, 255);
+    font-family: UberMove, UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 111%;
+    font-weight: 400;
+    line-height: 400%;
+    cursor: pointer;
+}
+.company-details
+{
+    color: white;
+    display: flex;
+    justify-content: space-evenly;
+    line-height: 2.5em;
+    justify-content: space-between;
+    margin-bottom: 0;
+}
+.details1
+{
+    list-style: none;
+   
+}
+.heading
+{
+  font-size: 141%;
+  margin-bottom: 6%;
+}
+
+.list:hover
+{
+    cursor: pointer;
+    color:#b7bbbd;
+}
+.apps-icons
+{
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    padding-left: 0;
+    padding-right: 0;
+}
+.iconblk1{
+  width: fit-content;
+  display:flex;
+}
+.icons{
+  width: 50%;
+  height: 100%;
+  cursor: pointer;
+  border: none;
+}
+.icons:hover
+{
+cursor: pointer;
+    color:#b7bbbd;
+}
+.buttonfooter{
+  width:20%;
+  display:flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.buttonfooter1{
+  background: transparent;
+    border: none;
+    display: flex;
+    cursor: pointer;
+    height: fit-content;
+    align-items: center;
+    width: 100%;
+}
+.buttonfooter1:hover{
+  background-color: rgb(117, 114, 114);
+}
+.buttonfooter2{
+  background: transparent;
+    border: none;
+    display: flex;
+    cursor: pointer;
+    width: 11%;
+    height: fit-content;
+    margin-top: 0;
+    padding-top: 0%;
+    align-items: center;
+    
+    padding-left: 6%;
+}
+.buttonfooter2:hover{
+  background-color: rgb(117, 114, 114);
+}
+.globe{
+  width: 35%;
+    color: white;
+    margin-top: -20%;
+}
+
+.globetext{
+  font-family: UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 89%;
+  font-weight: 500;
+  color: white;
+  width: 29%;
+  height: -19%;
+  margin-top: 9%;
+}
+.buttonglobe{
+  height:36;
+  width:fit-content;
+
+}
+
+.storebutton{
+  width: 30%;
+  height: 70%;
+  cursor:pointer;
+}
+.store{
+  width:35%;
+  margin-top: 5%;
+}
+.bottomfooter{
+  margin-left:0;
+  display:flex;
+  justify-content: space-between;
+
+}
+.bottom{
+  color: #AFAFAF;
+    font-family: UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: normal;
+    font-size: 70%;
+    line-height: 70%;
+    margin-top: 4%;
+}
+.bottomicon{
+  display:flex;
+  padding-top: 4%;
+ 
+}
+.bottomicons{
+  color: gray;
+    font-family: UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: normal;
+    font-size: 70%;
+    margin-top: 0;
+    margin-bottom: 0;
+    cursor: pointer;
+    margin-right: 1%;
+    background: transparent;
+    border: none;
+  
+}
+.bottomicons:hover{
+  color:rgb(90, 89, 89);
+
+}

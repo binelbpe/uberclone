@@ -1,0 +1,11 @@
+html{
+  font-family: sans-serif;
+}
+.body{
+  width: 100%;
+  margin: 0; 
+  padding: 0;
+}
+.custom-select {
+  width: 100%;
+}
